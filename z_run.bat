@@ -1,0 +1,1 @@
+start %CD%/../love.exe "."
